@@ -1,8 +1,5 @@
 # Amazon Clone
 
-
-https://user-images.githubusercontent.com/95652465/164954525-deda5db2-e527-4f18-9ef2-471140dd1bfb.mp4
-
 [Firebase Live Version of the App](https://clone-b539a.web.app/)
 
 
