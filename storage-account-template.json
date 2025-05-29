@@ -5,14 +5,14 @@
     "storageAccountName": {
       "type": "string",
       "metadata": {
-        "description": "Name of the storage account"
+        "description": "kamrandemostorage199"
       }
     },
     "location": {
       "type": "string",
      "defaultValue": "eastus",
       "metadata": {
-        "description": "Location for the storage account"
+        "description": "eastus"
       }
     },
     "sku": {
@@ -24,7 +24,7 @@
         "Standard_ZRS"
       ],
       "metadata": {
-        "description": "The SKU of the storage account"
+        "description": "Standard_LRS"
       }
     }
   },
