@@ -25,6 +25,6 @@ jobs:
         resourceGroupName: myResourceGroup
         template: ./storage-account-template.json
         parameters: >
-          storageAccountName=myuniquestorageacct
+          storageAccountName=kamrandemostorage199
           location=eastus
           sku=Standard_LRS
