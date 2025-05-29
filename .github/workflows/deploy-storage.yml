@@ -22,9 +22,9 @@ jobs:
       uses: azure/arm-deploy@v1
       with:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-        resourceGroupName: myResourceGroup
+        resourceGroupName: demo1-rg
         template: ./storage-account-template.json
         parameters: >
-          storageAccountName=myuniquestorageacct
+          storageAccountName=kamrandemostorage199
           location=eastus
           sku=Standard_LRS
